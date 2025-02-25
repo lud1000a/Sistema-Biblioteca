@@ -1,6 +1,6 @@
 <h1>📚 Sistema de Biblioteca</h1>
 
-<p>Este é um sistema de biblioteca desenvolvido em <strong>Java</strong>. Ele gerencia alunos, empréstimos e multas.</p>
+<p>Este é um sistema de biblioteca desenvolvido em <strong>Java</strong>. Ele gerencia alunos, livros, empréstimos e multas.</p>
 
 <h2>📌 Pré-requisitos</h2>
 
