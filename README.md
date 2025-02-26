@@ -32,8 +32,10 @@ cd nome-do-repositorio
   ┣ 📂 panel          # JPanel (Painéis)
  ┣ 📂 utils           # Métodos auxiliares CSV
 </pre>
+ <h2>📌 Acesso do Administrador </h2>
 <code>
 Admin acess:
 user: #30#
 password: 303030
+</code>
 
