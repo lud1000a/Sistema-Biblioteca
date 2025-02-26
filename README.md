@@ -15,4 +15,11 @@
 
 <pre>
 <code>
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+cd nome-do-repositorio
+</code>
+</pre>
+
+<pre>
+<code>
 
