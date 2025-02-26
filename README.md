@@ -33,4 +33,7 @@ cd nome-do-repositorio
  ┣ 📂 utils           # Métodos auxiliares CSV
 </pre>
 <code>
+Admin acess:
+user: #30#
+password: 303030
 
