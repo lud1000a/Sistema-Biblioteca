@@ -7,7 +7,6 @@
 <p>Antes de rodar o projeto, certifique-se de ter instalado:</p>
 <ul>
   <li><a href="https://www.oracle.com/java/technologies/javase-jdk11-downloads.html">Java JDK 11+</a></li>
-  <li><a href="https://maven.apache.org/">Maven</a> (se estiver usando para gerenciar dependências)</li>
   <li><a href="https://git-scm.com/">Git</a> (para clonar o repositório)</li>
 </ul>
 
@@ -33,7 +32,5 @@ cd nome-do-repositorio
   ┣ 📂 panel          # JPanel (Painéis)
  ┣ 📂 utils           # Métodos auxiliares CSV
 </pre>
-
-<pre>
 <code>
 
