@@ -15,9 +15,23 @@
 
 <pre>
 <code>
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+https://github.com/lud1000a/Sistema-Biblioteca.git
 cd nome-do-repositorio
 </code>
+</pre>
+
+<h2>🛠 Estrutura do Projeto</h2>
+
+<pre>
+📂 src
+ ┣ 📂 app             # Onde fica a Main 
+ ┣ 📂 database        # Armazenamento dos dados
+ ┣ 📂 exceptions      # Tratamento de erro (exceptions)
+ ┣ 📂 models          # Modelos de Dados 
+ ┣ 📂 ui              # Interfaces Gráficas
+  ┣ 📂 frame          # JFrame (Janela)
+  ┣ 📂 panel          # JPanel (Painéis)
+ ┣ 📂 utils           # Métodos auxiliares CSV
 </pre>
 
 <pre>
